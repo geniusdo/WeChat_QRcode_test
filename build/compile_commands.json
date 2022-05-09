@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/liuchuangye/c++/opencv_contrib_test/build",
+  "command": "/usr/bin/c++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_DATE_TIME_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_THREAD_DYN_LINK -I/usr/local/include/opencv4/opencv2 -isystem /usr/local/include/opencv4   -Wall -g   -std=gnu++14 -o CMakeFiles/project.dir/src/main.cpp.o -c /home/liuchuangye/c++/opencv_contrib_test/src/main.cpp",
+  "file": "/home/liuchuangye/c++/opencv_contrib_test/src/main.cpp"
+}
+]
