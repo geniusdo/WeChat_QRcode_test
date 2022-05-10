@@ -4,6 +4,7 @@
 CMakeFiles/project.dir/src/main.cpp.o
  /home/liuchuangye/c++/opencv_contrib_test/src/main.cpp
  /usr/local/include/opencv4/opencv2/core.hpp
+ /usr/local/include/opencv4/opencv2/core/async.hpp
  /usr/local/include/opencv4/opencv2/core/base.hpp
  /usr/local/include/opencv4/opencv2/core/bufferpool.hpp
  /usr/local/include/opencv4/opencv2/core/check.hpp
@@ -33,6 +34,13 @@ CMakeFiles/project.dir/src/main.cpp.o
  /usr/local/include/opencv4/opencv2/core/version.hpp
  /usr/local/include/opencv4/opencv2/core/vsx_utils.hpp
  /usr/local/include/opencv4/opencv2/cvconfig.h
+ /usr/local/include/opencv4/opencv2/dnn.hpp
+ /usr/local/include/opencv4/opencv2/dnn/dict.hpp
+ /usr/local/include/opencv4/opencv2/dnn/dnn.hpp
+ /usr/local/include/opencv4/opencv2/dnn/dnn.inl.hpp
+ /usr/local/include/opencv4/opencv2/dnn/layer.hpp
+ /usr/local/include/opencv4/opencv2/dnn/utils/inference_engine.hpp
+ /usr/local/include/opencv4/opencv2/dnn/version.hpp
  /usr/local/include/opencv4/opencv2/highgui.hpp
  /usr/local/include/opencv4/opencv2/imgcodecs.hpp
  /usr/local/include/opencv4/opencv2/imgproc.hpp

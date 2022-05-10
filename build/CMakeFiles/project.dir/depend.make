@@ -3,6 +3,7 @@
 
 CMakeFiles/project.dir/src/main.cpp.o: ../src/main.cpp
 CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/core.hpp
+CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/core/async.hpp
 CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/core/base.hpp
 CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/core/bufferpool.hpp
 CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/core/check.hpp
@@ -32,6 +33,13 @@ CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/core/u
 CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/core/version.hpp
 CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/core/vsx_utils.hpp
 CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/cvconfig.h
+CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/dnn.hpp
+CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/dnn/dict.hpp
+CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/dnn/dnn.hpp
+CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/dnn/dnn.inl.hpp
+CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/dnn/layer.hpp
+CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/dnn/utils/inference_engine.hpp
+CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/dnn/version.hpp
 CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/highgui.hpp
 CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/imgcodecs.hpp
 CMakeFiles/project.dir/src/main.cpp.o: /usr/local/include/opencv4/opencv2/imgproc.hpp

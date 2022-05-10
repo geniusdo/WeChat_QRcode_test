@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libOPENCV_CONTRIB_TEST.a"
+)

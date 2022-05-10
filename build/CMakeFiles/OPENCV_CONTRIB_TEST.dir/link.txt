@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOPENCV_CONTRIB_TEST.a  CMakeFiles/OPENCV_CONTRIB_TEST.dir/super_scale.cpp.o
+/usr/bin/ranlib libOPENCV_CONTRIB_TEST.a
